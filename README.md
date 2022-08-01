@@ -1,6 +1,7 @@
-![Peach Welcome Email Header](https://user-images.githubusercontent.com/90649106/182219383-d91cc048-28d8-40c3-985b-b67a67e9ee48.png)
 
-<img src="https://user-images.githubusercontent.com/90649106/182219383-d91cc048-28d8-40c3-985b-b67a67e9ee48.png" width="1000" >
+
+
+<img src="https://user-images.githubusercontent.com/90649106/182227160-eca94b1e-9992-4156-8dd1-9c708ac7aca3.png" width="1000" >
      
 # Hi, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
