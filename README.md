@@ -3,7 +3,7 @@
 # Hi, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-![](https://img.shields.io/badge/<Code>-<Python>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ffc0b4)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ffc0b4)
 
 <!--
 **ValeriaPineda23/ValeriaPineda23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
