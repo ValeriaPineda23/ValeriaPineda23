@@ -6,7 +6,7 @@
 # Hi, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <p align='center'>
-<a href="https://instagram.com/_waylonwalker"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/vale.pineda.rom/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.kaggle.com/valeriapineda"><img height="30" src="https://user-images.githubusercontent.com/90649106/184424621-e3f36a30-63e2-4375-9684-0fbda3ab2f26.png"></a>
 <a href="https://www.linkedin.com/in/valeria-pineda-romero/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 <a href="https://www.researchgate.net/profile/Valeria-Pineda-Romero"><img height="30" src="https://user-images.githubusercontent.com/90649106/184427308-1b7a0e6b-f3b5-4c91-a4e3-56bc289eb802.png"></a>
