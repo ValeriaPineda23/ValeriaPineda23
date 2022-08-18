@@ -13,7 +13,7 @@
 </p>
 
 
-I am an aspiring Data Scientist with a Master of Science in Engineering at Tecnológico de Monterrey. Where I have worked in optimization and data science projects. I have a passion for learning and research.  You can see a full list of what I am up to on my [Reasearch Gate page](https://www.researchgate.net/profile/Valeria-Pineda-Romero) and [Kaggle projects](https://www.kaggle.com/valeriapineda).  If you have any question or found value in something I have created, please feel free to send a message to my [personal email](mailto:vv.pinedaromero@gmail.com).
+I am an aspiring Data Scientist with a Master of Science in Engineering at Tecnológico de Monterrey. Where I have worked in optimization and data science projects. I have a passion for learning and research.  You can see a full list of what I am up to on my [webpage](www.vpinedaromero.com), [Reasearch Gate page](https://www.researchgate.net/profile/Valeria-Pineda-Romero) and [Kaggle projects](https://www.kaggle.com/valeriapineda).  If you have any question or found value in something I have created, please feel free to send a message to my [personal email](mailto:vv.pinedaromero@gmail.com).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=DD3D7B)
@@ -21,4 +21,4 @@ I am an aspiring Data Scientist with a Master of Science in Engineering at Tecno
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=microsoftsqlserver&logoColor=white&color=DD3D7B)
 
 ## &#x270d; Data Science Projects
-My Data Science Projects can be found in [Kaggle](https://www.kaggle.com/valeriapineda) and [Github](https://github.com/ValeriaPineda23?tab=repositories) pages.
+My Data Science Projects can be found in my [webpage](www.vpinedaromero.com), [Kaggle](https://www.kaggle.com/valeriapineda) and [Github](https://github.com/ValeriaPineda23?tab=repositories) pages.
